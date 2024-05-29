@@ -1,3 +1,3 @@
 # Meu nome é Julia Oliveira 
-Sou estudane da plataforma Alura [alura](https://www.alura.com.br)
+Sou estudane da plataforma [alura](https://www.alura.com.br)
 
